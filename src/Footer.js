@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <p className="link-to-open-source">
       <a
-        href="https://github.com/Julia-Garanenko/5-week"
+        href="https://github.com/Julia-Garanenko/Forecast"
         target="blank"
         className="link"
       >
